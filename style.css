@@ -309,12 +309,15 @@ section {
 }
 
 .section__pic-container {
-  height: 400px;
-  width: 400px;
+  height: 300px;
+  width: 300px;
   margin: auto 0;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
 }
 
-/* EXPERIENCE SECTION */
+/* EXPERIENCE SECTION */ 
 
 #experience {
   position: relative;
@@ -358,7 +361,7 @@ article .icon {
 
 #projects {
   position: relative;
-  margin-top: 200px;
+  margin-top: 170px;
 }
 
 .color-container {
